@@ -11,4 +11,8 @@ if hungry=="yes":
     print("Take tea")
 else:
     print("do your work")
+ 
+##For pull request####
+print("create pull request always from main")
+print("OK buddy")
 
